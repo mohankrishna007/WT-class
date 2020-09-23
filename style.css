@@ -7,10 +7,10 @@ body {
 }
 
 table{
-  border: 0.5px dotted black;
+  border: 2px solid black;
 }
 
-td{
+table td{
   padding: 20px;
   font-size: 2em;
   font-family: sans-serif;
