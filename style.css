@@ -6,11 +6,12 @@ body {
   color: Red;
 }
 
-#bio_table{
-  width="100%";
-  border= 0.5px dotted black;
+table{
+  border: 0.5px dotted black;
 }
 
 td{
-  padding = 20px;
+  padding: 20px;
+  font-size: 2em;
+  font-family: sans-serif;
 }
