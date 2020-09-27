@@ -25,6 +25,6 @@ ul.list_options{
   list-style-type: circle;
 }
 
-ul.list_options li {
+ul li {
   margin-bottom: 20px;
 }
