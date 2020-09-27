@@ -24,3 +24,7 @@ tr:hover{
 ul.list_options{
   list-style-type: circle;
 }
+
+ul.list_options li {
+  margin-bottom: 20px;
+}
