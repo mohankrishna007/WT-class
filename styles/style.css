@@ -1,10 +1,10 @@
 body {
   margin: 20px;
-  background-color: #f5f5f5;
 }
 
 #title{
   color: Red;
+  background-color: white smoke;
 }
 
 table{
